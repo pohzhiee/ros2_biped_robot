@@ -1,0 +1,33 @@
+[submodule "desired_joint_publisher"]
+	path = desired_joint_publisher
+	url = https://github.com/pohzhiee/desired_joint_publisher.git
+[submodule "gazebo_ros_pkgs"]
+	path = gazebo_ros_pkgs
+	url = https://github.com/pohzhiee/gazebo_ros_pkgs
+[submodule "lobot_control_main"]
+	path = lobot_control_main
+	url = https://github.com/pohzhiee/lobot_control_main.git
+[submodule "lobot_description"]
+	path = lobot_description
+	url = https://github.com/pohzhiee/lobot_description.git
+[submodule "lobot_gazebo"]
+	path = lobot_gazebo
+	url = https://github.com/pohzhiee/lobot_gazebo.git
+[submodule "ros2_control_parameter_server"]
+	path = ros2_control_parameter_server
+	url = https://github.com/pohzhiee/ros2_control_parameter_server.git
+[submodule "parameter_server_interfaces"]
+	path = parameter_server_interfaces
+	url = https://github.com/pohzhiee/parameter_server_interfaces.git
+[submodule "robot_hardware_interface"]
+	path = robot_hardware_interface
+	url = https://github.com/pohzhiee/robot_hardware_interface.git
+[submodule "ros2_control"]
+	path = ros2_control
+	url = https://github.com/pohzhiee/ros2_control
+[submodule "ros2_control_helpers"]
+	path = ros2_control_helpers
+	url = https://github.com/pohzhiee/ros2_control_helpers.git
+[submodule "ros2_controllers"]
+	path = ros2_controllers
+	url = https://github.com/pohzhiee/ros2_controllers
