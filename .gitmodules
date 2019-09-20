@@ -31,3 +31,6 @@
 [submodule "ros2_controllers"]
 	path = ros2_controllers
 	url = https://github.com/pohzhiee/ros2_controllers
+[submodule "ros2_control_interfaces"]
+	path = ros2_control_interfaces
+	url = https://github.com/pohzhiee/ros2_control_interfaces
